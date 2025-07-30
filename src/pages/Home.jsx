@@ -1,4 +1,4 @@
-import WallPaper from "../components/Wallpaper";
+import WallPaper from "../components/WallPaper";
 import Category from "../Product/Category";
 import ProductCard from "../Product/ProductCard";
 import MemberShips from "../components/MemberShips";
