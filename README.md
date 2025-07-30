@@ -3,6 +3,7 @@
 A fully responsive modern e-commerce web application built using **React** and **Tailwind CSS**. It includes features like product listing, category products, product details, about, contact, search, likes, cart system, authentication, and product details pages.
 
 ---
+CLICK HERE TO VIEW SITE https://react-ecommerce-rhbl.vercel.app/ ;
 
 ##  Features
 
@@ -29,4 +30,4 @@ A fully responsive modern e-commerce web application built using **React** and *
 
 ---
 
-This is my first React project I learn a lot of things of react and I will make more projects of react , Mern , Full stack websites .
+This is my first React project I learn a lot of things of react and I will make more projects of react , Mern , Full stack websites . And I know the design is not so good but in future I'm gonna learn UI/UX designing for my projects .
